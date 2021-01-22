@@ -6,5 +6,8 @@
   "dependencies": {
     "@dendronhq/dendron-11ty": "^1.25.1",
     "@dendronhq/dendron-cli": "^0.25.3"
+  },
+  "scripts": {
+    "dendron-cli": "dendron-cli"
   }
 }
