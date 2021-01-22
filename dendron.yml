@@ -9,4 +9,5 @@ site:
         - root
     siteRootDir: docs
     usePrettyRefs: true
+    siteUrl: https://workspace-vercel-sample.vercel.app
     title: Dendron
